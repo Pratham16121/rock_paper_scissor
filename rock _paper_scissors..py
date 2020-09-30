@@ -8,6 +8,7 @@ Created on Thu Sep  3 13:10:58 2020
 print("Rock..")
 print("paper..")
 print("Scissor..")
+#This are in main script in python
 
 player1 =str(input("player 1,make your move:"))
 player2 =str(input("player 2,make your move:"))
